@@ -1,0 +1,34 @@
+-- For OX Inventory ! add in ox_inventory -> data -> items.lua
+
+##If u dont use ox_inventory, add the items manually in our database!
+
+	["ammo-9boxs"] = {
+		label = "30x 9mm Patronen",
+		weight = 210,
+		stack = false,
+	},
+	["ammo-9boxl"] = {
+		label = "90x 9mm Patronen",
+		weight = 630,
+		stack = false,
+	},
+	["ammo-45boxs"] = {
+		label = "20x .45 ACP Patronen",
+		weight = 300,
+		stack = false,
+	},
+	["ammo-45boxl"] = {
+		label = "60x .45 ACP Patronen",
+		weight = 900,
+		stack = false,
+	},
+	["ammo-riflebox"] = {
+		label = "90x 5.56x45 Patronen",
+		weight = 360,
+		stack = false,
+	},
+	["ammo-sniperbox"] = {
+		label = "12x 7.62x51 Patronen",
+		weight = 128,
+		stack = false,
+	},
